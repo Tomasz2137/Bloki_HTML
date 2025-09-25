@@ -1,0 +1,27 @@
+header{
+    height: 80px;
+    background-color: darkred;
+}
+
+nav{
+    width: 25%;
+    height: 400px;
+    background-color: yellow;
+}
+
+main{
+    width: 50%;
+    height: 400px;
+    background-color: white;
+}
+
+aside{
+    width: 25%;
+    height: 400px;
+    background-color: lightgreen;
+}
+
+footer{
+    height: 60px;
+    background-color: black;
+}
