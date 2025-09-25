@@ -1,0 +1,21 @@
+header{
+    height: 100px;
+    background-color: purple
+}
+
+main {
+    height: 250px;
+    width: 33%;
+    background-color: pink;
+}
+section {
+    height: 250px;
+    width: 33%;
+    background-color: lightgreen;
+}
+
+article {
+    height: 250px;
+    width: 33%;
+    background-color: lightblue;
+}
