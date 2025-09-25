@@ -1,0 +1,36 @@
+#lewa {
+    height: 750px;
+    width: 25%;
+    background-color: rgb(255, 0, 0);
+    float: left;
+}
+
+header {
+    height: 150px;
+    width: 75%;
+    background-color: black;
+    float: left;
+}
+
+#prawa {
+    height: 600px;
+    width: 25%;
+    background-color: grey;
+    float: right;
+}
+
+#srodek {
+    height: 600px;
+    width: 50%;
+    background-color: lime;
+    float: left;
+    
+}
+
+footer {
+    background-color: yellow;
+    height: 100px;
+    clear: both;
+}
+
+
